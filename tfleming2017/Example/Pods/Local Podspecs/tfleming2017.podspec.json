@@ -1,0 +1,22 @@
+{
+  "name": "tfleming2017",
+  "version": "0.1.0",
+  "summary": "A short description of tfleming2017.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mokolodi1/tfleming2017",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mokolodi1": "mokolodi1@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mokolodi1/tfleming2017.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "tfleming2017/Classes/**/*"
+}

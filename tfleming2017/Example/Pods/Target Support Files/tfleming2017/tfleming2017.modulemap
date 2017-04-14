@@ -1,0 +1,6 @@
+framework module tfleming2017 {
+  umbrella header "tfleming2017-umbrella.h"
+
+  export *
+  module * { export * }
+}
