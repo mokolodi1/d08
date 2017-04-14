@@ -1,0 +1,16 @@
+PODS:
+  - tfleming2017 (0.1.0)
+
+DEPENDENCIES:
+  - tfleming2017 (from `../tfleming2017`)
+
+EXTERNAL SOURCES:
+  tfleming2017:
+    :path: ../tfleming2017
+
+SPEC CHECKSUMS:
+  tfleming2017: f571ffd3e32d10879b445a14e550f68be8a7adad
+
+PODFILE CHECKSUM: 1c5977328a32299b13a13547a74f8e130ac29473
+
+COCOAPODS: 1.2.1

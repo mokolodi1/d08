@@ -37,6 +37,6 @@ This is a helper pod for d08 of the Swift piscine at 42 Paris.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  s.frameworks = 'Foundation', 'CoreData'
+  # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

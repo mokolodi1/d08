@@ -1,11 +1,6 @@
 use_frameworks!
-
-target 'tfleming2017_Example' do
+target 'tfleming2017_Tests' do
   pod 'tfleming2017', :path => '../'
-
-  target 'tfleming2017_Tests' do
-    inherit! :search_paths
-
-    
-  end
+  
+  
 end

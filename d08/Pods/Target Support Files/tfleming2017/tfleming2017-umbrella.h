@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_tfleming2017_ExampleVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_tfleming2017_ExampleVersionString[];
+FOUNDATION_EXPORT double tfleming2017VersionNumber;
+FOUNDATION_EXPORT const unsigned char tfleming2017VersionString[];
 
