@@ -18,8 +18,7 @@ class ViewController: UIViewController {
         
         print("articles already loaded:", manager.getAllArticles().count)
         
-        let newArticle = manager.newArticle(title: "Hello", content: "This is the contents", language: "en")
-        print("new article:", newArticle)
+        manager.newArticle(title: "Hello", content: "This is the contents", language: "en")
 
         print("articles loaded now:", manager.getAllArticles().count)
         
